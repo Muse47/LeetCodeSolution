@@ -1,4 +1,4 @@
-package dengzh.Offer;
+package dengzh.offer;
 
 /**
  * @Description 剑指 Offer 13. 机器人的运动范围
